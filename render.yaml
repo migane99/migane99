@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soum-slim1-13
+    name: miganeyukiyoutube
     env: python
     region: Oregon
     plan: free
